@@ -53,8 +53,8 @@
     <div class="max-w-3xl mx-auto px-4">
       <h3 class="text-2xl font-bold mb-4">📚 活動記録</h3>
       <ul class="list-disc ml-6 space-y-2">
-        <li>2025.04　TOEIC初受験（730点）→ note記事化</li>
         <li>2025.03　「覚醒日記」シリーズ開始</li>
+        <li>2025.04　TOEIC初受験（730点）→ note記事化</li>
         <li>2025.06　「数学偏差値７３越えの勉強法」note記事でバズる</li>
       </ul>
     </div>
