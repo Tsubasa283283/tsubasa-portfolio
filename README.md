@@ -32,7 +32,7 @@
       <h3 class="text-2xl font-bold mb-4">👤 プロフィール</h3>
       <p class="mb-4">国際基督教大学（ICU）在学中の20歳。noteでの発信や筋トレ・哲学・英語学習・簿記を通じて、自分磨きを継続中。</p>
       <ul class="list-disc ml-6 space-y-2">
-        <li>2014.03 珠算初段取得</li＞
+        <li>2014.03 珠算初段取得</li
         <li>2014.05 暗算七段取得</li>
         <li>noteフォロワー：550人以上</li>
         <li>TOEIC初受験：730点（2025年）</li>
