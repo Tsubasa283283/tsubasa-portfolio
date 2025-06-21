@@ -14,6 +14,7 @@
       <nav class="space-x-4">
         <a href="#about" class="hover:underline">プロフィール</a>
         <a href="#note" class="hover:underline">note</a>
+        <a href="#challenge" class="hover:underline">挑戦中</a>
         <a href="#record" class="hover:underline">活動記録</a>
       </nav>
     </div>
@@ -26,13 +27,18 @@
     <a href="#about" class="bg-white text-black px-6 py-2 font-bold rounded-full hover:bg-gray-200">僕について</a>
   </section>
 
+  <!-- サイトの目的 -->
+  <p class="text-center text-gray-700 text-lg mt-4">
+    これは、凡庸という呪いから抜け出すための、僕の“覚醒と挑戦”の記録です。
+  </p>
+
   <!-- プロフィール -->
   <section id="about" class="py-16 bg-white">
     <div class="max-w-3xl mx-auto px-4">
       <h3 class="text-2xl font-bold mb-4">👤 プロフィール</h3>
       <p class="mb-4">国際基督教大学（ICU）在学中の20歳。noteでの発信や筋トレ・哲学・英語学習・簿記を通じて、自分磨きを継続中。</p>
       <ul class="list-disc ml-6 space-y-2">
-        <li>2014.03 珠算初段取得</li
+        <li>2014.03 珠算初段取得</li>
         <li>2014.05 暗算七段取得</li>
         <li>noteフォロワー：550人以上</li>
         <li>TOEIC初受験：730点（2025年）</li>
@@ -40,29 +46,43 @@
         <li>デッドリフト：190kg</li>
         <li>スクワット：150kg</li>
       </ul>
+      <p class="mt-6 text-gray-700">
+        僕が大切にしているのは、「結果より過程」「言葉より行動」「比較より成長」。
+      </p>
     </div>
   </section>
 
-  <!-- noteリンク -->
+  <!-- note記事 -->
   <section id="note" class="py-16 bg-gray-100">
     <div class="max-w-3xl mx-auto px-4">
       <h3 class="text-2xl font-bold mb-4">📝 note記事</h3>
       <p class="mb-4">覚醒日記や哲学・筋トレ・恋愛・英語学習など、人生を変えるnoteを発信中。</p>
       <a href="https://note.com/tsubasa_283322" class="text-blue-600 underline" target="_blank">noteをチェックする →</a>
+      <h4 class="text-xl font-semibold mt-6">📌 人気記事ピックアップ</h4>
+      <ul class="list-disc ml-6 mt-2 space-y-1">
+        <li><a href="https://note.com/tsubasa_283322/n/nb40471bea327" class="underline text-blue-600" target="_blank">【受験生必読】数学偏差値73超えの勉強法</a> ─ 勉強法の新提案</li>
+        <li><a href="https://note.com/tsubasa_283322/n/na8d884a84490" class="underline text-blue-600" target="_blank">凡人で終わるのが怖かった。だから僕は”修行の人生”を選んだ</a> ─ 僕の限界突破ストーリー</li>
+        <li><a href="https://note.com/tsubasa_283322/n/n325b6585a640" class="underline text-blue-600" target="_blank">“正しさ”より“納得感”で生きる哲学</a> ─ 生き方そのものを問う</li>
+      </ul>
     </div>
   </section>
 
+  <!-- 挑戦中 -->
   <section id="challenge" class="py-16 bg-gray-100">
-  <div class="max-w-3xl mx-auto px-4">
-    <h3 class="text-2xl font-bold mb-4">🔥 現在挑戦中のこと</h3>
-    <ul class="list-disc ml-6 space-y-2">
-      <li>日商簿記2級：6月合格に向けて短期集中</li>
-      <li>TOEIC900突破：年内達成目標！</li>
-      <li>note投稿：毎日更新／フォロワー1,000人突破を目指す</li>
-      <li>筋トレ：減量とともにBIG3自己ベスト更新（450kg→）</li>
-    </ul>
-  </div>
-</section>
+    <div class="max-w-3xl mx-auto px-4">
+      <h3 class="text-2xl font-bold mb-4">🔥 現在挑戦中のこと</h3>
+      <ul class="list-disc ml-6 space-y-2">
+        <li>日商簿記2級：6月合格に向けて短期集中</li>
+        <li>TOEIC900突破：年内達成目標！</li>
+        <li>note投稿：毎日更新／フォロワー1,000人突破を目指す</li>
+        <li>筋トレ：減量とともにBIG3自己ベスト更新（450kg→）</li>
+      </ul>
+      <p class="mt-6 text-gray-700">
+        僕の最終目標は、“名前で生きる人間になる”こと。<br>
+        そのために、挑戦を止めず、行動し続けています。
+      </p>
+    </div>
+  </section>
 
   <!-- 活動記録 -->
   <section id="record" class="py-16 bg-white">
