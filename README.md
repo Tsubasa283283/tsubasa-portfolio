@@ -52,6 +52,18 @@
     </div>
   </section>
 
+  <section id="challenge" class="py-16 bg-gray-100">
+  <div class="max-w-3xl mx-auto px-4">
+    <h3 class="text-2xl font-bold mb-4">🔥 現在挑戦中のこと</h3>
+    <ul class="list-disc ml-6 space-y-2">
+      <li>日商簿記2級：6月合格に向けて短期集中</li>
+      <li>TOEIC900突破：年内達成目標！</li>
+      <li>note投稿：毎日更新／フォロワー1,000人突破を目指す</li>
+      <li>筋トレ：減量とともにBIG3自己ベスト更新（450kg→）</li>
+    </ul>
+  </div>
+</section>
+
   <!-- 活動記録 -->
   <section id="record" class="py-16 bg-white">
     <div class="max-w-3xl mx-auto px-4">
