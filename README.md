@@ -40,7 +40,7 @@
       <ul class="list-disc ml-6 space-y-2">
         <li>2014.03 珠算初段取得</li>
         <li>2014.05 暗算七段取得</li>
-        <li>noteフォロワー：550人以上</li>
+        <li>noteフォロワー：600人以上</li>
         <li>ベンチプレス：120kg</li>
         <li>デッドリフト：190kg</li>
         <li>スクワット：150kg</li>
@@ -55,13 +55,13 @@
   <section id="note" class="py-16 bg-gray-100">
     <div class="max-w-3xl mx-auto px-4">
       <h3 class="text-2xl font-bold mb-4">📝 note記事</h3>
-      <p class="mb-4">覚醒日記や哲学・筋トレ・恋愛・英語学習など、人生を変えるnoteを発信中。</p>
+      <p class="mb-4">覚醒日記や哲学・筋トレ・英語や資格学習など、人生を変えるnoteを発信中。</p>
       <a href="https://note.com/tsubasa_283322" class="text-blue-600 underline" target="_blank">noteをチェックする →</a>
       <h4 class="text-xl font-semibold mt-6">📌 人気記事ピックアップ</h4>
       <ul class="list-disc ml-6 mt-2 space-y-1">
         <li><a href="https://note.com/tsubasa_283322/n/nb40471bea327" class="underline text-blue-600" target="_blank">【受験生必読】数学偏差値73超えの勉強法</a> ─ 勉強法の新提案</li>
         <li><a href="https://note.com/tsubasa_283322/n/na8d884a84490" class="underline text-blue-600" target="_blank">凡人で終わるのが怖かった。だから僕は”修行の人生”を選んだ</a> ─ 僕の限界突破ストーリー</li>
-        <li><a href="https://note.com/tsubasa_283322/n/n325b6585a640" class="underline text-blue-600" target="_blank">“正しさ”より“納得感”で生きる哲学</a> ─ 生き方そのものを問う</li>
+        <li><a href="https://note.com/tsubasa_283322/n/n9effaf903fc9" class="underline text-blue-600" target="_blank">あなたの人生、エンタメ化できてますか？</a> ─ 生き方そのものを問う</li>
       </ul>
     </div>
   </section>
@@ -89,7 +89,7 @@
       <h3 class="text-2xl font-bold mb-4">📚 活動記録</h3>
       <ul class="list-disc ml-6 space-y-2">
         <li>2025.03　「覚醒日記」シリーズ開始</li>
-        <li>2025.06　「数学偏差値７３越えの勉強法」note記事でバズる</li>
+        <li>2025.06　全体ビュー数30,000突破</li>
       </ul>
     </div>
   </section>
