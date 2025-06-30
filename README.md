@@ -40,6 +40,7 @@
       <ul class="list-disc ml-6 space-y-2">
         <li>2014.03 珠算初段取得</li>
         <li>2014.05 暗算七段取得</li>
+        <li>2025.06 簿記二級取得</li>
         <li>noteフォロワー：600人以上</li>
         <li>ベンチプレス：120kg</li>
         <li>デッドリフト：190kg</li>
@@ -71,7 +72,6 @@
     <div class="max-w-3xl mx-auto px-4">
       <h3 class="text-2xl font-bold mb-4">🔥 現在挑戦中のこと</h3>
       <ul class="list-disc ml-6 space-y-2">
-        <li>日商簿記2級：6月合格に向けて短期集中</li>
         <li>TOEIC900突破：９月達成目標！</li>
         <li>note投稿：毎日更新／フォロワー1,000人突破を目指す</li>
         <li>筋トレ：減量とともにBIG3自己ベスト更新（460kg→）</li>
