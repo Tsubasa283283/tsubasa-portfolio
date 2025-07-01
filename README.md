@@ -71,7 +71,8 @@
     <div class="max-w-3xl mx-auto px-4">
       <h3 class="text-2xl font-bold mb-4">🔥 現在挑戦中のこと</h3>
       <ul class="list-disc ml-6 space-y-2">
-        <li>TOEIC900突破：９月達成目標！</li>
+        <li>TOEIC900点を越える</li>
+        <li>2026年8月の税理士試験（簿記論・財務諸表論）２科目合格</li>
         <li>note投稿：毎日更新／フォロワー1,000人突破を目指す</li>
         <li>筋トレ：減量とともにBIG3自己ベスト更新（460kg→）</li>
       </ul>
