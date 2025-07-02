@@ -23,7 +23,7 @@
   <!-- トップビジュアル -->
   <section class="text-center py-24 bg-gradient-to-r from-gray-800 via-black to-gray-800 text-white">
     <h2 class="text-4xl font-bold mb-4">凡庸に埋もれるくらいなら、覚醒しろ。</h2>
-    <p class="text-lg mb-6">哲学と筋トレで、世界を切り拓く。</p>
+    <p class="text-lg mb-6">行動と挑戦で、世界を切り拓く。</p>
     <a href="#about" class="bg-white text-black px-6 py-2 font-bold rounded-full hover:bg-gray-200">僕について</a>
   </section>
 
