@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
@@ -87,7 +87,7 @@
   <!-- 活動記録 -->
   <section id="record" class="py-16 bg-white">
     <div class="max-w-3xl mx-auto px-4">
-      <h3 class="text-2xl font-bold mb-4">📚 mpte活動記録</h3>
+      <h3 class="text-2xl font-bold mb-4">📚 note活動記録</h3>
       <ul class="list-disc ml-6 space-y-2">
         <li>2025.03　「覚醒日記」シリーズ開始</li>
         <li>2025.06　全体ビュー数30,000突破</li>
