@@ -62,6 +62,7 @@
         <li><a href="https://note.com/tsubasa_283322/n/nb40471bea327" class="underline text-blue-600" target="_blank">【受験生必読】数学偏差値73超えの勉強法</a> ─ 勉強法の新提案</li>
         <li><a href="https://note.com/tsubasa_283322/n/na8d884a84490" class="underline text-blue-600" target="_blank">凡人で終わるのが怖かった。だから僕は”修行の人生”を選んだ</a> ─ 僕の限界突破ストーリー</li>
         <li><a href="https://note.com/tsubasa_283322/n/n9effaf903fc9" class="underline text-blue-600" target="_blank">あなたの人生、エンタメ化できてますか？</a> ─ 生き方そのものを問う</li>
+        <li><a href="https://note.com/tsubasa_283322/n/nc77378586b12" class="underline text-blue-600" target="_blank">noteを書き続けるあなたへ。本当に伝えたいことは、言葉にすると陳腐になる。</a> ─ noteで伝えるということ</li>
       </ul>
     </div>
   </section>
