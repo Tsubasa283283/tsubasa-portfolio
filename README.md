@@ -40,8 +40,8 @@
       <ul class="list-disc ml-6 space-y-2">
         <li>2014.05 暗算七段取得</li>
         <li>2025.06 簿記二級取得</li>
-        <li>noteフォロワー：900人以上</li>
-        <li>筋トレBIG3合計：460kg</li>
+        <li>noteフォロワー：1000人以上</li>
+        <li>筋トレBIG3合計：470kg</li>
 
       </ul>
       <p class="mt-6 text-gray-700">
@@ -89,7 +89,7 @@
       <h3 class="text-2xl font-bold mb-4">📚 note活動記録</h3>
       <ul class="list-disc ml-6 space-y-2">
         <li>2025.03　「覚醒日記」シリーズ開始</li>
-        <li>2025.06　全体ビュー数30,000突破</li>
+        <li>2025.07　全体ビュー数 50,000突破</li>
       </ul>
     </div>
   </section>
