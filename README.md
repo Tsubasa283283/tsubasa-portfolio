@@ -40,7 +40,7 @@
       <ul class="list-disc ml-6 space-y-2">
         <li>2014.05 暗算七段取得</li>
         <li>2025.06 簿記二級取得</li>
-        <li>noteフォロワー：1100人以上</li>
+        <li>noteフォロワー：1200人以上</li>
         <li>筋トレBIG3合計：470kg</li>
 
       </ul>
