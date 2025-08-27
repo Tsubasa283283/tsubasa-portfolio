@@ -40,7 +40,8 @@
       <ul class="list-disc ml-6 space-y-2">
         <li>2014.05 暗算七段取得</li>
         <li>2025.06 簿記二級取得</li>
-        <li>noteフォロワー：1200人以上</li>
+        <li>noteフォロワー：1,500人以上</li>
+        <li>note総ビュー数：97,000ビュー</li>
         <li>筋トレBIG3合計：470kg</li>
 
       </ul>
@@ -73,7 +74,7 @@
       <ul class="list-disc ml-6 space-y-2">
         <li>TOEIC900点を越える</li>
         <li>2026年8月の税理士試験（簿記論・財務諸表論）２科目合格</li>
-        <li>note投稿：毎日更新／フォロワー10,000人・総PV100,000ビュー突破を目指す</li>
+        <li>note投稿：毎日更新／フォロワー10,000人・総PV1,000,000ビュー突破を目指す</li>
         <li>筋トレ：減量とともにBIG3自己ベスト更新（500kg）</li>
       </ul>
       <p class="mt-6 text-gray-700">
