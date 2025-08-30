@@ -91,6 +91,7 @@
       <ul class="list-disc ml-6 space-y-2">
         <li>2025.03　note活動開始</li>
         <li>2025.07　全体ビュー数 50,000突破</li>
+        <li>2025.08　全体ビュー数 100,000突破</li>
       </ul>
     </div>
   </section>
