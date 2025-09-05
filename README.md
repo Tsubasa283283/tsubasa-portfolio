@@ -89,7 +89,7 @@
     <div class="max-w-3xl mx-auto px-4">
       <h3 class="text-2xl font-bold mb-4">📚 note活動記録</h3>
       <ul class="list-disc ml-6 space-y-2">
-        <li>2025.03　note活動開始</li>
+        <li>2025.04　note活動開始</li>
         <li>2025.07　全体ビュー数 50,000突破</li>
         <li>2025.08　全体ビュー数 100,000突破</li>
       </ul>
