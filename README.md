@@ -41,7 +41,7 @@
         <li>2014.05 暗算七段取得</li>
         <li>2025.06 簿記二級取得</li>
         <li>noteフォロワー：1,600人以上</li>
-        <li>note総ビュー数：105,000ビュー</li>
+        <li>note総ビュー数：108,000ビュー</li>
         <li>筋トレBIG3合計：470kg</li>
 
       </ul>
@@ -60,8 +60,8 @@
       <h4 class="text-xl font-semibold mt-6">📌 人気記事ピックアップ</h4>
       <ul class="list-disc ml-6 mt-2 space-y-1">
         <li><a href="https://note.com/tsubasa_283322/n/nb40471bea327" class="underline text-blue-600" target="_blank">【受験生必読】数学偏差値73超えの勉強法</a> ─ 勉強法の新提案</li>
-        <li><a href="https://note.com/tsubasa_283322/n/na8d884a84490" class="underline text-blue-600" target="_blank">凡人で終わるのが怖かった。だから僕は”修行の人生”を選んだ</a> ─ 僕の限界突破ストーリー</li>
         <li><a href="https://note.com/tsubasa_283322/n/n9effaf903fc9" class="underline text-blue-600" target="_blank">あなたの人生、エンタメ化できてますか？</a> ─ 生き方そのものを問う</li>
+        <li><a href="https://note.com/tsubasa_283322/n/na8d884a84490" class="underline text-blue-600" target="_blank">凡人で終わるのが怖かった。だから僕は”修行の人生”を選んだ</a> ─ 僕の限界突破ストーリー</li>
         <li><a href="https://note.com/tsubasa_283322/n/nc77378586b12" class="underline text-blue-600" target="_blank">noteを書き続けるあなたへ。本当に伝えたいことは、言葉にすると陳腐になる。</a> ─ noteで伝えるということ</li>
       </ul>
     </div>
